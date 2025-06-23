@@ -23,7 +23,7 @@ A simple and responsive Weather App built with **React** and **Vite**. It allows
 ## 📸 Screenshots
 
 ### ✅ Successful Search (`Tokyo`)
-![Tokyo Weather](https://github.com/user-attachments/assets/1c9a4756-b3a1-43db-bf51-89ddc48ee427)
+![Tokyo Weather](https://github.com/user-attachments/assets/5326e8e4-724a-45f6-a156-3951ba20e76b)
 
 
 ### ❌ Invalid Search
