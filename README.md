@@ -40,4 +40,4 @@ A simple and responsive Weather App built with **React** and **Vite**. It allows
 ### 🌟 Acknowledgements
 - OpenWeatherMap API
 - Tailwind CSS
-- YouTube tutorial inspiratio
+- YouTube tutorial inspiration
