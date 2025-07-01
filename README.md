@@ -34,7 +34,7 @@ A simple and responsive Weather App built with **React** and **Vite**. It allows
 ![Default UI](https://github.com/user-attachments/assets/ae6d2931-d99c-460f-8b0d-25ed7a30e05e)
 
 ### 🙋‍♂️ Author
-- Imam Mohammad Abutura 
+- Imam Mohammad Abuturab
 - [GitHub](https://github.com/Abuturab07)
 
 ### 🌟 Acknowledgements
